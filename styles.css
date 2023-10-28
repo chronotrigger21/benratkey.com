@@ -36,8 +36,30 @@ h3 {
     padding-bottom: 10px;
 }
 
+h4 {
+    line-height: 1.4em;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
 li {
     font-size: 17px;
     padding-bottom: 3px;
 }
 
+p.blogTocTitle {
+    margin-bottom: 0px;
+}
+
+p.blogTocTitle a {
+    font-size: 22px;
+    text-decoration: none;
+    line-height: 1.3em;
+}
+
+p.blogTocDate {
+    font-size: 16px;
+    margin-bottom: 30px;
+    margin-left: 26px;
+}
